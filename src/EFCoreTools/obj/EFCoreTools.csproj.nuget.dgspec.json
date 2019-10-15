@@ -63,6 +63,10 @@
               "version": "[2.0.3, )",
               "autoReferenced": true
             },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
               "version": "[2.2.4, )"
@@ -74,6 +78,10 @@
             "System.Reflection.Emit": {
               "target": "Package",
               "version": "[4.6.0, )"
+            },
+            "xunit.assert": {
+              "target": "Package",
+              "version": "[2.4.1, )"
             }
           },
           "imports": [
