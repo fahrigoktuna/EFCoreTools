@@ -1,8 +1,0 @@
-C:\Users\TCFGOKTUNA\source\repos\EFCoreTools\src\EFCoreTools\bin\Debug\netstandard2.0\EFCoreTools.deps.json
-C:\Users\TCFGOKTUNA\source\repos\EFCoreTools\src\EFCoreTools\bin\Debug\netstandard2.0\EFCoreTools.dll
-C:\Users\TCFGOKTUNA\source\repos\EFCoreTools\src\EFCoreTools\obj\Debug\netstandard2.0\EFCoreTools.csprojAssemblyReference.cache
-C:\Users\TCFGOKTUNA\source\repos\EFCoreTools\src\EFCoreTools\obj\Debug\netstandard2.0\EFCoreTools.AssemblyInfoInputs.cache
-C:\Users\TCFGOKTUNA\source\repos\EFCoreTools\src\EFCoreTools\obj\Debug\netstandard2.0\EFCoreTools.AssemblyInfo.cs
-C:\Users\TCFGOKTUNA\source\repos\EFCoreTools\src\EFCoreTools\bin\Debug\netstandard2.0\EFCoreTools.pdb
-C:\Users\TCFGOKTUNA\source\repos\EFCoreTools\src\EFCoreTools\obj\Debug\netstandard2.0\EFCoreTools.dll
-C:\Users\TCFGOKTUNA\source\repos\EFCoreTools\src\EFCoreTools\obj\Debug\netstandard2.0\EFCoreTools.pdb
